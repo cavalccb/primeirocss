@@ -1,6 +1,7 @@
 body {
-    background-image: url('https://images.unsplash.com/photo-1557683316-973673baf926?ixlib=rb-1.2.1&w=1000&q=80');
+    background-image: url('https://jvceletro.com.br/wp-content/uploads/2018/07/Star-Wars-Space-Background-4.jpg');
     background-size: auto 100vh;
+    backdrop-filter: opacity(30%);
     font-family: Tahoma;
     height: 100vh;
   }
